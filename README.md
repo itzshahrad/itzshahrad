@@ -73,9 +73,9 @@
 </div>
 
 ## **Contact Information** :telephone_receiver:
-- **Phone:** [+98-936-7942785] :telephone:
-- **Email:** [ali@seemon.ir] :envelope:
-- **GitHub:** [salinourian] :octocat:
+- **Phone:** [] :telephone:
+- **Email:** [rejnitz.ad@gmail.com] :envelope:
+- **GitHub:** [ShahradRajaeian] :octocat:
 - **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/sayedali-nourian-najafabadi-a44479127/)] :briefcase:
 ## Hello, fellow coders and curious minds!
 
@@ -94,38 +94,8 @@ To design and implement innovative AI solutions that drive results and provide v
 As an innovative AI developer, I have a passion for learning and creating cutting-edge solutions. My expertise in programming languages, machine learning algorithms, natural language processing, and computer vision has allowed me to build groundbreaking solutions for organizations that have led to significant results. My problem-solving skills, innovative thinking, attention to detail, and commitment to delivering high-quality work make me a valuable asset to any project team.
 
 ## **Skills:** :computer:
-- Programming languages: Python, R, Java, and C++
-- Machine learning algorithms and techniques
-- Natural language processing and computer vision
-- Deep learning frameworks such as TensorFlow and Keras
-- Cloud computing platforms such as AWS and Azure
+- Programming languages: Python and C++
 
 ## **Experience:** :briefcase:
-### **AI Developer**, [Organization], [Dates]
-- Design, develop, and deploy machine learning models to meet and support business needs.
-- Collaborate with cross-functional teams to identify opportunities for automation and process improvement.
-- Implement computer vision solutions using open-source libraries such as OpenCV.
-- Provide guidance and mentorship to junior team members.
-- Participate in hackathons and AI-focused events to stay up-to-date on latest trends and techniques.
 
 ## **Projects:** :rocket:
-1. Social media chatbots that provide customer service support
-2. Fraud detection systems that analyze financial transactions
-3. Speech recognition and translation apps for real-time communication
-4. Personalized recommendation engines for e-commerce platforms
-5. Automated sentiment analysis of customer reviews and feedback
-6. Predictive maintenance systems for machinery and equipment
-7. Automated image and video tagging and classification system
-8. Autonomous driving and vehicle navigation systems
-9. Image recognition systems for security surveillance
-10. AI-powered chatbots for mental health counseling and therapy
-11. Intelligent education platform that provides personalized learning experiences
-12. Medical diagnosis systems that analyze medical images, patient data, and symptoms
-13. Natural language processing and generation systems for conversational bots and assistants
-14. Automated customer response systems that integrate with call centers
-15. Smart energy systems that optimize energy usage in buildings and cities
-16. Intelligent chatbots that provide legal advice and support services
-17. Predictive analytics for supply chain optimization and demand forecasting
-18. AI-powered fraud detection and prevention systems for credit card companies
-19. Smart wearable devices that enable real-time biometric monitoring and analysis
-20. Computer vision systems for quality control and grading of products in manufacturing processes
