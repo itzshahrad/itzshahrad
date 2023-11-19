@@ -54,8 +54,8 @@
 ![telegraf](https://img.shields.io/badge/-Telegraf.js-000?&logo=telegram)
 
 ### Stay in touch:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)]([https://www.linkedin.com/in/sayedali-nourian-najafabadi-a44479127/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/s.ali.nooriyan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/)
 [![protonmail](https://img.shields.io/badge/-nouriannajafabadi@proton.me-000?&logo=protonmail)](mailto:nouriannajafabadi@proton.me)
 
 ### Github Profile Details:
