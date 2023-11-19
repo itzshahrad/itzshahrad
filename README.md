@@ -61,11 +61,11 @@
 ### Github Profile Details:
 
 <p align="left">
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salinourian&theme=github_dark"/>
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=salinourian&theme=github_dark"/>
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salinourian&theme=github_dark&utcOffset=8"/>
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salinourian&theme=github_dark"/>
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salinourian&theme=github_dark"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahradRajaeian&theme=github_dark"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahradRajaeian&theme=github_dark"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahradRajaeian&theme=github_dark&utcOffset=8"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahradRajaeian&theme=github_dark"/>
+<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahradRajaeian&theme=github_dark"/>
 </p>
 
 <div align="left">
@@ -76,7 +76,7 @@
 - **Phone:** [] :telephone:
 - **Email:** [rejnitz.ad@gmail.com] :envelope:
 - **GitHub:** [ShahradRajaeian] :octocat:
-- **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/sayedali-nourian-najafabadi-a44479127/)] :briefcase:
+- **LinkedIn:** [[LinkedIn Profile]()] :briefcase:
 ## Hello, fellow coders and curious minds!
 
 With my extensive knowledge on different programming languages like Python, Java, JavaScript and my exceptional skills in automation using Github Actions, I'm always looking for ways to enhance my skills and learn more.
