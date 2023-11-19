@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/56348113/202894127-727e0f44-c95c-46af-b1bd-63bb850de110.svg" alt="telegram" width="70">
 </a> -->
 
-<h1 align="left">Hi there, I am SAyedAli Nourian 👋</h1>
+<h1 align="left">Hi there, I am Shahrad Rajaeian 👋</h1>
   
 ### Technology:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
